@@ -8,3 +8,9 @@ font-family: 'Oswald', sans-serif;
 #main{
 font-family: 'Merriweather', serif;
 }
+#global{
+font-family: 'Open Sans Condensed', sans-serif;
+}
+#span{
+  font-size: 14px;
+}
